@@ -16,6 +16,12 @@ Systems Engineer and Data Network Management Technologist with 7+ years of exper
 
 My work combines hands-on cybersecurity with engineering, automation, technical decision-making, and human-governed AI workflows. I focus on building systems that are verifiable, maintainable, and useful in real operational environments.
 
+
+### Education
+
+- **Systems Engineering** — Fundación Universitaria del Área Andina, 2023
+- **Data Network Management Technology** — SENA, 2017
+
 ### Core Capabilities
 
 - **Offensive Security** — Pentesting, Web/API Security, Vulnerability Assessment, Red Team
@@ -44,12 +50,8 @@ Additional training: IPv6 · Web Development I & II · Computer Architecture
 - **[Surface Recon](https://github.com/Luguisaca/surface_recon)** — Security reconnaissance and attack-surface analysis.
 - **[IA Director](https://github.com/Luguisaca/ia-director-core)** — Human-governed orchestration for autonomous engineering agents and automated gates.
 - **[Core Asset Lab](https://github.com/Luguisaca/core-asset-lab)** — Experimental engineering, 3D assets, inspection, and visualization.
-- **Sentinel AI** — AI-assisted systems for FiveM environments. Private repository currently under audit.
+- **[Sentinel AI](https://github.com/Alejacros/SentinelAI)** — AI-assisted systems for FiveM environments. Private repository currently under audit.
 
-### Education
-
-- **Systems Engineering** — Fundación Universitaria del Área Andina, 2023
-- **Data Network Management Technology** — SENA, 2017
 
 ---
 
