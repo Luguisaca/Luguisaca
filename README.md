@@ -1,10 +1,6 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://luguisaca.com/assets/branding/logo/luguisaca-logo-light-transparent.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://luguisaca.com/assets/branding/logo/luguisaca-logo-dark-transparent.png">
-  <img alt="LUGUISACA" src="https://luguisaca.com/assets/branding/logo/luguisaca-logo-dark-transparent.png" width="520">
-</picture>
+<img src="https://luguisaca.com/assets/branding/logo/luguisaca-isotipo-master.png" alt="LUGUISACA" width="220">
 
 ## Luis Salamanca
 
