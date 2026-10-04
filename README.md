@@ -1,6 +1,10 @@
 <div align="center">
 
-# LUGUISACA
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Luguisaca/luguisaca.com/main/public/assets/branding/logo/luguisaca-logo-light-transparent.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Luguisaca/luguisaca.com/main/public/assets/branding/logo/luguisaca-logo-dark-transparent.png">
+  <img alt="LUGUISACA" src="https://raw.githubusercontent.com/Luguisaca/luguisaca.com/main/public/assets/branding/logo/luguisaca-logo-dark-transparent.png" width="520">
+</picture>
 
 ### Luis Salamanca
 
@@ -61,6 +65,12 @@ My work combines hands-on cybersecurity with engineering, automation, technical 
 
 ## 05 / SELECTED WORK
 
+<p align="center">
+  <a href="https://github.com/Luguisaca/tatacoa">
+    <img src="https://raw.githubusercontent.com/Luguisaca/luguisaca.com/main/public/assets/projects/tatacoa/04-banners/tatacoa-readme-social.png" alt="TATACOA" width="100%">
+  </a>
+</p>
+
 ### TATACOA
 **Evidence · Traceability · Reproducibility**  
 Verifiable artifacts, traceability, and reproducible technical workflows.  
@@ -83,7 +93,8 @@ Experimental engineering, 3D assets, inspection, and visualization.
 
 ### Sentinel AI
 **Applied AI · Interactive Systems · FiveM**  
-AI-assisted systems for FiveM environments. Private repository currently under audit.
+AI-assisted systems for FiveM environments. Private repository currently under audit.  
+→ **[Explore Sentinel AI](https://github.com/Alejacros/SentinelAI)**
 
 ---
 
