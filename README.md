@@ -1,10 +1,6 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://luguisaca.com/assets/branding/logo/luguisaca-logo-light-transparent.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://luguisaca.com/assets/branding/logo/luguisaca-logo-dark-transparent.png">
-  <img alt="LUGUISACA" src="https://luguisaca.com/assets/branding/logo/luguisaca-logo-dark-transparent.png" width="520">
-</picture>
+<img src="https://luguisaca.com/assets/branding/github/social-preview-1280x640.png" alt="LUGUISACA — Luis Salamanca" width="100%">
 
 ## Luis Salamanca
 
@@ -78,8 +74,6 @@ My work combines hands-on cybersecurity with engineering, automation, technical 
 | **IA Director** | AI Orchestration · Automated Gates · Human Governance | **[Repository](https://github.com/Luguisaca/ia-director-core)** |
 | **Core Asset Lab** | Engineering · 3D Assets · Visualization | **[Repository](https://github.com/Luguisaca/core-asset-lab)** |
 | **Sentinel AI** | Applied AI · Interactive Systems · FiveM | **[Repository](https://github.com/Alejacros/SentinelAI)** |
-
-TATACOA builds verifiable artifacts and reproducible technical workflows. Surface Recon focuses on security reconnaissance and attack-surface analysis. IA Director explores human-governed autonomous engineering. Core Asset Lab is an experimental engineering and visualization space. Sentinel AI applies AI-assisted systems to FiveM environments.
 ---
 
 <div align="center">
