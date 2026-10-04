@@ -55,4 +55,4 @@ Additional training: IPv6 · Web Development I & II · Computer Architecture
 
 ---
 
-[**luguisaca.com**](https://luguisaca.com) · [**LinkedIn**](https://www.linkedin.com/in/luis-salamanca-a6a025b9) · **CV**
+[**Website**](https://luguisaca.com) · [**LinkedIn**](https://www.linkedin.com/in/luguisaca) · [**GitHub**](https://github.com/Luguisaca) · [**Hack The Box**](https://profile.hackthebox.com/profile/01a0a34f-b410-72df-b29d-f21ba4f354b6) · [**TryHackMe**](https://tryhackme.com/p/Luguisaca) · [**CV**](https://luguisaca.com) · [**Email**](mailto:contacto@luguisaca.com)
