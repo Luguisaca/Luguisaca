@@ -6,7 +6,7 @@
   <img alt="LUGUISACA" src="https://luguisaca.com/assets/branding/logo/luguisaca-logo-dark-transparent.png" width="520">
 </picture>
 
-### Luis Salamanca
+## Luis Salamanca
 
 **CYBERSECURITY · SECURITY ENGINEERING · AI-ORCHESTRATED ENGINEERING**
 
@@ -14,7 +14,7 @@
 
 *Building, breaking, securing and improving systems.*
 
-[Website](https://luguisaca.com) · [LinkedIn](https://www.linkedin.com/in/luguisaca) · [GitHub](https://github.com/Luguisaca) · [Hack The Box](https://profile.hackthebox.com/profile/01a0a34f-b410-72df-b29d-f21ba4f354b6) · [TryHackMe](https://tryhackme.com/p/Luguisaca) · [CV](https://luguisaca.com) · [Email](mailto:contacto@luguisaca.com)
+[Profile / CV](https://luguisaca.com) · [LinkedIn](https://www.linkedin.com/in/luguisaca) · [GitHub](https://github.com/Luguisaca) · [Hack The Box](https://profile.hackthebox.com/profile/01a0a34f-b410-72df-b29d-f21ba4f354b6) · [TryHackMe](https://tryhackme.com/p/Luguisaca) · [Email](mailto:contacto@luguisaca.com)
 
 </div>
 
@@ -71,31 +71,15 @@ My work combines hands-on cybersecurity with engineering, automation, technical 
   </a>
 </p>
 
-### TATACOA
-**Evidence · Traceability · Reproducibility**  
-Verifiable artifacts, traceability, and reproducible technical workflows.  
-→ **[Explore TATACOA](https://github.com/Luguisaca/tatacoa)**
+| Project | Focus | Explore |
+|---|---|:---:|
+| **TATACOA** | Evidence · Traceability · Reproducibility | **[Repository](https://github.com/Luguisaca/tatacoa)** |
+| **Surface Recon** | Reconnaissance · Attack Surface · Security Analysis | **[Repository](https://github.com/Luguisaca/surface_recon)** |
+| **IA Director** | AI Orchestration · Automated Gates · Human Governance | **[Repository](https://github.com/Luguisaca/ia-director-core)** |
+| **Core Asset Lab** | Engineering · 3D Assets · Visualization | **[Repository](https://github.com/Luguisaca/core-asset-lab)** |
+| **Sentinel AI** | Applied AI · Interactive Systems · FiveM | **[Repository](https://github.com/Alejacros/SentinelAI)** |
 
-### Surface Recon
-**Reconnaissance · Attack Surface · Security Analysis**  
-Security reconnaissance and attack-surface analysis.  
-→ **[Explore Surface Recon](https://github.com/Luguisaca/surface_recon)**
-
-### IA Director
-**AI Orchestration · Automated Gates · Human Governance**  
-Human-governed orchestration for autonomous engineering agents and automated gates.  
-→ **[Explore IA Director](https://github.com/Luguisaca/ia-director-core)**
-
-### Core Asset Lab
-**Engineering · 3D Assets · Visualization**  
-Experimental engineering, 3D assets, inspection, and visualization.  
-→ **[Explore Core Asset Lab](https://github.com/Luguisaca/core-asset-lab)**
-
-### Sentinel AI
-**Applied AI · Interactive Systems · FiveM**  
-AI-assisted systems for FiveM environments. Private repository currently under audit.  
-→ **[Explore Sentinel AI](https://github.com/Alejacros/SentinelAI)**
-
+TATACOA builds verifiable artifacts and reproducible technical workflows. Surface Recon focuses on security reconnaissance and attack-surface analysis. IA Director explores human-governed autonomous engineering. Core Asset Lab is an experimental engineering and visualization space. Sentinel AI applies AI-assisted systems to FiveM environments.
 ---
 
 <div align="center">
@@ -104,6 +88,6 @@ AI-assisted systems for FiveM environments. Private repository currently under a
 
 **Security is not a layer. It is an engineering discipline.**
 
-[Website](https://luguisaca.com) · [LinkedIn](https://www.linkedin.com/in/luguisaca) · [Hack The Box](https://profile.hackthebox.com/profile/01a0a34f-b410-72df-b29d-f21ba4f354b6) · [TryHackMe](https://tryhackme.com/p/Luguisaca) · [CV](https://luguisaca.com) · [Contact](mailto:contacto@luguisaca.com)
+[Profile / CV](https://luguisaca.com) · [LinkedIn](https://www.linkedin.com/in/luguisaca) · [Hack The Box](https://profile.hackthebox.com/profile/01a0a34f-b410-72df-b29d-f21ba4f354b6) · [TryHackMe](https://tryhackme.com/p/Luguisaca) · [Contact](mailto:contacto@luguisaca.com)
 
 </div>
