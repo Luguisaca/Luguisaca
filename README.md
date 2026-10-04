@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://luguisaca.com/assets/branding/github/social-preview-1280x640.png" alt="LUGUISACA — Luis Salamanca" width="100%">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://luguisaca.com/assets/branding/logo/luguisaca-logo-light-transparent.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://luguisaca.com/assets/branding/logo/luguisaca-logo-dark-transparent.png">
+  <img alt="LUGUISACA" src="https://luguisaca.com/assets/branding/logo/luguisaca-logo-dark-transparent.png" width="520">
+</picture>
 
 ## Luis Salamanca
 
