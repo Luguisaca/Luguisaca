@@ -1,6 +1,11 @@
-<div align="center">
+<table>
+<tr>
+<td width="28%" align="center" valign="middle">
+  <img src="https://luguisaca.com/assets/branding/logo/luguisaca-isotipo-master.png" alt="LUGUISACA" width="180">
+</td>
+<td width="72%" valign="middle">
 
-<img src="https://luguisaca.com/assets/branding/logo/luguisaca-isotipo-master.png" alt="LUGUISACA" width="220">
+# LUGUISACA
 
 ## Luis Salamanca
 
@@ -12,7 +17,9 @@
 
 [Profile / CV](https://luguisaca.com) · [LinkedIn](https://www.linkedin.com/in/luguisaca) · [GitHub](https://github.com/Luguisaca) · [Hack The Box](https://profile.hackthebox.com/profile/01a0a34f-b410-72df-b29d-f21ba4f354b6) · [TryHackMe](https://tryhackme.com/p/Luguisaca) · [Email](mailto:contacto@luguisaca.com)
 
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
